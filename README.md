@@ -2,8 +2,8 @@
 
 TOC
 ===
-Project Design #TOC1
-User Requirements #TOC2
+# [Project Design][TOC1]
+# [User Requirements][TOC2]
 Sequence Diagram
 OOP and ISO/IEC 25000:2005
 Optimizing for Heroku
