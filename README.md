@@ -2,20 +2,18 @@
 
 ## The goal of this project is to build an online Python web app that accepts academic articles in PDF format and converts them into plain text. 
 
-> ### [1. Anchor Link](#anchor-link)
-> ##  Anchor Link
-
-## TOC
+## Table of contents
 ===
 
-[1. Project Design](#anchor-link)
-[User Requirements](#TOC2)
-[Sequence Diagram](#TOC3)
-[OOP and ISO/IEC 25000:2005](#TOC4)
-[Optimizing for Heroku](#TOC5)
-[Deployment on Heroku](#TOC6)
-[Ongoing Maintenance and Support](#TOC7)
-[License](#TOC8)
+### [1. Project Design](#Project-Design)
+### [2. User Requirements](#User-Requirements)
+### [3. Sequence Diagram](#Sequence-Diagram)
+### [4. OOP and ISO/IEC 25000:2005](#OOP-and-ISO/IEC-25000:2005)
+### [5. Optimizing for Heroku](#Optimizing-for-Heroku)
+### [6. Deployment on Heroku](#Deployment-on-Heroku)
+### [7. Ongoing Maintenance and Support](#Ongoing-Maintenance-and-Support)
+### [8. License](#License)
+
 
 ## Project Design
 ----------------
