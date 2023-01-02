@@ -1,18 +1,16 @@
 # PDF2TXT4NLP
-
 ## The goal of this project is to build an online Python web app that accepts academic articles in PDF format and converts them into plain text. 
 
+
 ## Table of contents
-===
 
 ### [1. Project Design](#project-design)
 ### [2. User Requirements](#user-requirements)
-### [3. Sequence Diagram](#sequence-diagram)
-### [4. OOP and ISO/IEC 25000:2005](#oop-and-iso/iec-25000:2005)
+### [3. Sequence Diagram](#diagram-sequence)
+### [4. OOP and ISO/IEC 25000:2005](#oop-and-isoiec-250002005)
 ### [5. Optimizing for Heroku](#optimizing-for-heroku)
-### [6. Deployment on Heroku](#deployment-on-heroku)
-### [7. Ongoing Maintenance and Support](#ongoing-maintenance-and-support)
-### [8. License](#license-)
+### [6. Ongoing Maintenance and Support](#ongoing-maintenance-and-support)
+### [7. License](#license)
 
 
 ## Project Design
@@ -111,7 +109,7 @@ To ensure the long-term success of the app, it is important to provide ongoing m
 
 By providing ongoing maintenance and support, the app can continue to meet the user's needs and remain a valuable resource for the community.
 
-## License (#license-)
+## License
 =======
 
 This project is licensed under the [MIT License](LICENSE).
