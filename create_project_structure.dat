@@ -1,0 +1,39 @@
+#!/bin/bash
+
+# Create the main app folder
+mkdir pdf-to-text-converter
+cd pdf-to-text-converter
+
+# Create the app subfolder and __init__.py file
+mkdir app
+touch app/__init__.py
+
+# Create the main.py file
+touch app/main.py
+
+# Create the models subfolder and __init__.py file
+mkdir app/models
+touch app/models/__init__.py
+
+# Create the job_queue.py and conversion_job.py files
+touch app/models/job_queue.py
+touch app/models/conversion_job.py
+
+# Create the static subfolder
+mkdir app/static
+
+# Create the css, img, and js subfolders within static
+mkdir app/static/css
+mkdir app/static/img
+mkdir app/static/js
+
+# Create the templates subfolder and index.html, status.html, and success.html files
+mkdir app/templates
+touch app/templates/index.html
+touch app/templates/status.html
+touch app/templates/success.html
+
+# Create the requirements.txt, runtime.txt, and Procfile files
+touch requirements.txt
+touch runtime.txt
+touch Procfile
