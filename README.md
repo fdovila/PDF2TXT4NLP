@@ -5,14 +5,14 @@
 ## Table of contents
 ===
 
-### [1. Project Design](#Project-Design)
-### [2. User Requirements](#User-Requirements)
-### [3. Sequence Diagram](#Sequence-Diagram)
-### [4. OOP and ISO/IEC 25000:2005](#OOP-and-ISO/IEC-25000:2005)
-### [5. Optimizing for Heroku](#Optimizing-for-Heroku)
-### [6. Deployment on Heroku](#Deployment-on-Heroku)
-### [7. Ongoing Maintenance and Support](#Ongoing-Maintenance-and-Support)
-### [8. License](#License)
+### [1. Project Design](#project-design)
+### [2. User Requirements](#user-requirements)
+### [3. Sequence Diagram](#sequence-diagram)
+### [4. OOP and ISO/IEC 25000:2005](#oop-and-iso/iec-25000:2005)
+### [5. Optimizing for Heroku](#optimizing-for-heroku)
+### [6. Deployment on Heroku](#deployment-on-heroku)
+### [7. Ongoing Maintenance and Support](#ongoing-maintenance-and-support)
+### [8. License](#license)
 
 
 ## Project Design
