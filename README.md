@@ -11,14 +11,14 @@ TOC
 [Optimizing for Heroku](#TOC5)
 [Deployment on Heroku](#TOC6)
 [Ongoing Maintenance and Support](#TOC7)
-[Conclusion](#TOC8)
+[License](#TOC8)
 
-[Project Design][TOC3]
+[Project Design]
 ----------------
 
 The goal of this project is to build an online Python web app that accepts academic articles in PDF format and converts them into plain text. The app should be hosted on Heroku and should comply with OOP and ISO/IEC 25000:2005.
 
-[User Requirements][TOC2]
+[User Requirements]
 -----------------
 
 The app should allow users to:
@@ -33,7 +33,7 @@ The app should also be able to:
 *   Convert the PDF files to text using the PDFBoT library
 *   Save the text files to the server
 
-[Diagram Sequence][TOC3]
+[Diagram Sequence]
 ----------------
 
 The following sequence [diagram](https://sequencediagram.org/index.html#initialData=AIZwLghgTmCuC2AbAUMiBjMB7KACAqiAKZSqEm4C0AfLgIIAODAXPeukSCLhE7gBZZ4RBhADmRZIwZVa01gBEAliAaIIATwFCR4orjBF4aiIbLE8Nek1b41WCABNcABQUAxEFL5X5uAGoQiEqOpvpu7rgAZkqInN4yvja4AMoQAG7hHtzYuBaZpNKy1iy4AMJQRGGuHmVYAHYFhnhYAEYAVkSYCcV+yqrqWgxQWGKVXLit0MiIWFgMyLglxRF1jSTNrGtNNZG5hgAeYIvLSaVpmQZERwZYeSQFJ0VntgyhhrjDo+PcU6RE9UcPReuAURDiH1WDSaFDanW6zzkyX6Ji0IFg7E43GEXD05goIIUWAA7vVZk4rkcvIiSqwUg99IcwNFYpxbrhYBZUMAAY4EChkEA:// "diagram") illustrates how the app works:
@@ -66,7 +66,7 @@ App -> App: Serve text files to user
 
 This sequence diagram shows the basic flow of how the app works. When the user accesses the app's homepage, the app displays the homepage template. The user can then upload PDF files, which the app validates and saves to the server. The app then uses the `PDFConverter` object to convert the PDFs to text and displays a progress bar to the user. As each PDF is converted and saved, the progress bar is updated. When the conversion process is complete, the `PDFConverter` object is deleted and the user is shown a success message. Finally, the user can download the resulting text files from the app.
 
-[OOP and ISO/IEC 25000:2005][TOC4]
+[OOP and ISO/IEC 25000:2005]
 --------------------------
 
 This project follows OOP principles and the ISO/IEC 25000:2005 standard for software quality in several ways.
@@ -83,7 +83,7 @@ This project follows OOP principles and the ISO/IEC 25000:2005 standard for soft
 
 By following OOP principles and the ISO/IEC 25000:2005 standard, this project aims to deliver a high-quality and scalable web app that meets the user's needs.
 
-[Optimizing for Heroku][TOC5]
+[Optimizing for Heroku]
 ---------------------
 
 To optimize the app for Heroku, the following strategies should be employed:
@@ -97,7 +97,7 @@ To optimize the app for Heroku, the following strategies should be employed:
 
 By following these strategies, the app should be optimized to run efficiently on Heroku, minimizing resource usage and maximizing performance. This will allows the app to scale to meet the needs of a large number of users without sacrificing speed or reliability.
 
-[Ongoing Maintenance and Support][TOC6]
+[Ongoing Maintenance and Support]
 -------------------------------
 
 To ensure the long-term success of the app, it is important to provide ongoing maintenance and support. This may involve the following activities:
@@ -109,7 +109,7 @@ To ensure the long-term success of the app, it is important to provide ongoing m
 
 By providing ongoing maintenance and support, the app can continue to meet the user's needs and remain a valuable resource for the community.
 
-[License][TOC7]
+[License]
 =======
 
 This project is licensed under the [MIT License](LICENSE).
