@@ -12,7 +12,7 @@
 ### [5. Optimizing for Heroku](#optimizing-for-heroku)
 ### [6. Deployment on Heroku](#deployment-on-heroku)
 ### [7. Ongoing Maintenance and Support](#ongoing-maintenance-and-support)
-### [8. License](#license)
+### [8. License](#license-)
 
 
 ## Project Design
@@ -111,7 +111,7 @@ To ensure the long-term success of the app, it is important to provide ongoing m
 
 By providing ongoing maintenance and support, the app can continue to meet the user's needs and remain a valuable resource for the community.
 
-## License
+## License (#license-)
 =======
 
 This project is licensed under the [MIT License](LICENSE).
